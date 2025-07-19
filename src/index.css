@@ -1,0 +1,8 @@
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e6f7ff;
+}
+button:hover {
+  background-color: #d9d9d9;
+}
